@@ -25,7 +25,7 @@
 
 ---
 
-## :information_source: About
+# :information_source: About
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris volutpat arcu ex, at aliquam felis luctus a. Pellentesque pulvinar eleifend tincidunt. Donec egestas congue neque et venenatis. Nullam facilisis pharetra malesuada. Pellentesque rhoncus, turpis vitae commodo porttitor, diam ligula viverra neque, in maximus lorem ex eu velit. Proin malesuada augue at nisl vulputate, sed rhoncus metus posuere. Morbi tincidunt risus eget ipsum sollicitudin volutpat. Maecenas quis lobortis lectus.
 
