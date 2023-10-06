@@ -1,7 +1,7 @@
 # README TEMPLATE
 
 <p align="center" >
-  <img src="https://user-images.githubusercontent.com/54115624/218580885-67a7ba7a-cee3-40ed-84a4-7ad5df82c504.png" alt="" width="600" />
+  <img src="https://images.unsplash.com/photo-1693497409545-baa678088069?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80" alt="" width="600" />
 </>
 
 <p align="center">
@@ -13,64 +13,45 @@
 ---
 
 <h3 align="center">
-  <a href="#information_source-sobre">Sobre</a>&nbsp;|&nbsp;
-  <a href="#interrobang-motivo">Motivo</a>&nbsp;|&nbsp;
-  <a href="#rocket-tecnologias-utilizadas">Tecnologias</a>&nbsp;|&nbsp;
+  <a href="#information_source-sobre">About</a>&nbsp;|&nbsp;
+  <a href="#interrobang-motivo">Purpose</a>&nbsp;|&nbsp;
+  <a href="#rocket-tecnologias-utilizadas">Techs</a>&nbsp;|&nbsp;
   <a href="#art-layout-no-figma">Figma</a>&nbsp;|&nbsp;
 </h3>
 <h3 align="center">
-  <a href="#rainbow-documenta%C3%A7%C3%A3o-de-cores">Cores</a>&nbsp;|&nbsp;
-  <a href="#abc-fontes-utilizadas">Fontes</a>&nbsp;|&nbsp;
-  <a href="#zap-como-executar">Executar</a>&nbsp;|&nbsp;
-  <a href="#memo-licen%C3%A7a">Licença</a>
+  <a href="#rainbow-documenta%C3%A7%C3%A3o-de-cores">Colours Pallete</a>&nbsp;|&nbsp;
+  <a href="#abc-fontes-utilizadas">Fonts</a>&nbsp;|&nbsp;
+  <a href="#zap-como-executar">Run</a>&nbsp;|&nbsp;
+  <a href="#memo-licen%C3%A7a">License</a>
 </h3>
 
 ---
 
-## :information_source: Sobre
+## :information_source: About
 
-Nesse módulo foi criado um projeto completo com o framework Next.js. Foi utilizado StitchesJS, passando por conceitos de SPA, server-side rendering (SSR) e static-site generation (SSG).
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris volutpat arcu ex, at aliquam felis luctus a. Pellentesque pulvinar eleifend tincidunt. Donec egestas congue neque et venenatis. Nullam facilisis pharetra malesuada. Pellentesque rhoncus, turpis vitae commodo porttitor, diam ligula viverra neque, in maximus lorem ex eu velit. Proin malesuada augue at nisl vulputate, sed rhoncus metus posuere. Morbi tincidunt risus eget ipsum sollicitudin volutpat. Maecenas quis lobortis lectus.
 
-Foi desenvolvida uma aplicação de e-commerce, que contém as seguintes funcionalidades:
-- Carrossel de produtos
-- Mostra do nome e valor após hover do mouse
-- Página estática com a descrição completa do produto
-- Link para efetuar a compra através do Stripe
-- Página estática de sucesso da compra efetuada
+## :interrobang: Purpose
 
-Nesse desafio, foi necessário implementar um carrinho no nosso projeto, com a opção de adicionar e remover os itens antes de prosseguir ao checkout.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris volutpat arcu ex, at aliquam felis luctus a. Pellentesque pulvinar eleifend tincidunt. Donec egestas congue neque et venenatis. Nullam facilisis pharetra malesuada. Pellentesque rhoncus, turpis vitae commodo porttitor, diam ligula viverra neque, in maximus lorem ex eu velit. Proin malesuada augue at nisl vulputate, sed rhoncus metus posuere. Morbi tincidunt risus eget ipsum sollicitudin volutpat. Maecenas quis lobortis lectus.
 
+- [x] Lorem ipsum dolor sit amet, consectetur.
+- [x] Adipiscing elit. Mauris volutpat arcu ex, at aliquam felis luctus a.
+- [x] Pellentesque pulvinar eleifend tincidunt.
 
-## :interrobang: Motivo
-
-Nesse desafio, aproveitei a aplicação já desenvolvida na trilha **Ignite ReactJS** para implementar um carrinho que utilizará os dados da API do Stripe para buscar os itens existentes, e controlará, através da aplicação, o número de itens que a pessoa deseja comprar.
-
-- [x] Adicionar a possibilidade de adicionar aquele item ao carrinho na página do produto
-- [x] Salvar todos os itens selecionados, e exibir o número de itens no carrinho
-- [x] Enviar o carrinho que armazenado na aplicação para a rota de checkout, onde irá gerar a sessão de checkout com os ``line_items`` necessários.
-
-Para completar esse desafio foi necessário de realizar algumas pesquisas na documentaçao para entender sobre a API do Stripe.
-
-## :rocket: Tecnologias Utilizadas
+## :rocket: Techs used
 
 - [Next.js](https://nextjs.org/)
 - [Axios](https://axios-http.com/)
-- [embla-carousel-react](https://www.embla-carousel.com/)
-- [immer](https://github.com/immerjs/immer#readme)
-- [Phosphor](https://phosphoricons.com/)
 - [Radix-UI](https://www.radix-ui.com/)
 - [Stitches](https://stitches.dev/)
 - [Stripe](https://stripe.com/)
-- [use-context-selector](https://github.com/dai-shi/use-context-selector#readme)
-- [@rocketseat/eslint-config](https://github.com/rocketseat/eslint-config-rocketseat#readme)
 
-## :art: Layout no Figma
+## :art: Figma Layout
 
-Para essa aplicação foi fornecido um layout para que fosse possível seguir e implementar todas as funcionalidades desenhadas no #Figma.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris volutpat arcu ex, at aliquam felis luctus a.
 
-[Figma - Ignite Shop](https://www.figma.com/file/FxlDRKOmznBbTH8DsTgnZU/Ignite-Shop-2.0/duplicate)
-
-## :rainbow: Documentação de cores
+## :rainbow: Colour Palette 
 
 | Cor                | Hexadecimal                                       |
 | ------------------ | ------------------------------------------------- |
@@ -87,47 +68,47 @@ Para essa aplicação foi fornecido um layout para que fosse possível seguir e 
 |                                                                        |
 | backgroundGradient | linear-gradient(180deg, #1EA483 0%, #7465D4 100%) |
 
-## :abc: Fontes utilizadas
+## :abc: Fonts in use
 
 - [Roboto](https://fonts.google.com/specimen/Roboto)
 
-## :zap: Como executar
+## :zap: How to run
 
-- Clone o projeto:
+- Clone the project:
 ```
-git clone https://github.com/jerp86/ignite-shop.git
-```
-
-- Acesse a pasta clonada:
-```
-cd ignite-shop
+git clone https://github.com/test
 ```
 
-- Instale as dependências:
+- Access the cloned folder:
+```
+cd test
+```
+
+- Install the dependencies:
 ```
 npm ci
 ```
 
-- Inicie a fake API e o projeto:
+- Run the project:
 ```
 npm run dev
 ```
 
-## :memo: Licença
+## :memo: Licence
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+This project is under MIT license. See the file [LICENSE](LICENSE) for further information.
 
 ---
 
 <h4 align="center">
-  Feito por Jerp86 👋️
+  Built by Eduardo Martins 👋️
 </h4>
 <h5 align="center">
-  <a href="mailto:jerp.dev@gmail.com">Entre em contato!</a>
+  <a href="mailto:edu19_96@hotmail.com">Contact me!</a>
 </h5>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jerp/">
-    <img alt="Perfil do Linkedin de José Eduardo Rodrigues Pinto" src="https://img.shields.io/badge/LinkedIn-jerp-0e76a8?style=flat&logoColor=white&logo=linkedin">
+  <a href="https://www.linkedin.com/in/edumartinsg/">
+    <img alt="Eduardo Martins Linkedin Profile" src="https://img.shields.io/badge/LinkedIn-jerp-0e76a8?style=flat&logoColor=white&logo=linkedin">
   </a>
 </p>
