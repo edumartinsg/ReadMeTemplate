@@ -13,7 +13,7 @@
 ---
 
 <h3 align="center">
-  <a href="#about">About</a>&nbsp;|&nbsp;
+  <a href="#information_source_about">About</a>&nbsp;|&nbsp;
   <a href="#purpose">Purpose</a>&nbsp;|&nbsp;
   <a href="#techs_used">Techs</a>&nbsp;|&nbsp;
 <h3 align="center">
