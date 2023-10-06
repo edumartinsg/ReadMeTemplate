@@ -1,7 +1,7 @@
 # README TEMPLATE
 
 <p align="center" >
-  <img src="https://images.unsplash.com/photo-1693497409545-baa678088069?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80" alt="" width="600" />
+  <img src="https://images.unsplash.com/photo-1461749280684-dccba630e2f6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2069&q=80" alt="" width="600" />
 </>
 
 <p align="center">
@@ -13,13 +13,11 @@
 ---
 
 <h3 align="center">
-  <a href="#information_source-sobre">About</a>&nbsp;|&nbsp;
-  <a href="#interrobang-motivo">Purpose</a>&nbsp;|&nbsp;
-  <a href="#rocket-tecnologias-utilizadas">Techs</a>&nbsp;|&nbsp;
-  <a href="#art-layout-no-figma">Figma</a>&nbsp;|&nbsp;
-</h3>
+  <a href="#about">About</a>&nbsp;|&nbsp;
+  <a href="#purpose">Purpose</a>&nbsp;|&nbsp;
+  <a href="#techs_used">Techs</a>&nbsp;|&nbsp;
 <h3 align="center">
-  <a href="#rainbow-documenta%C3%A7%C3%A3o-de-cores">Colours Pallete</a>&nbsp;|&nbsp;
+  <a href="#colour_palette">Colours Pallete</a>&nbsp;|&nbsp;
   <a href="#abc-fontes-utilizadas">Fonts</a>&nbsp;|&nbsp;
   <a href="#zap-como-executar">Run</a>&nbsp;|&nbsp;
   <a href="#memo-licen%C3%A7a">License</a>
@@ -96,7 +94,7 @@ npm run dev
 
 ## :memo: Licence
 
-This project is under MIT license. See the file [LICENSE](LICENSE) for further information.
+This project is under MIT license. See the file for further information.
 
 ---
 
