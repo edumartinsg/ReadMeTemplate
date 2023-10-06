@@ -12,19 +12,6 @@
 
 ---
 
-<h3 align="center">
-  <a href="#about">About</a>&nbsp;|&nbsp;
-  <a href="#purpose">Purpose</a>&nbsp;|&nbsp;
-  <a href="#techs_used">Techs</a>&nbsp;|&nbsp;
-<h3 align="center">
-  <a href="#colour_palette">Colours Pallete</a>&nbsp;|&nbsp;
-  <a href="#abc-fontes-utilizadas">Fonts</a>&nbsp;|&nbsp;
-  <a href="#zap-como-executar">Run</a>&nbsp;|&nbsp;
-  <a href="#memo-licen%C3%A7a">License</a>
-</h3>
-
----
-
 # :information_source: About
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris volutpat arcu ex, at aliquam felis luctus a. Pellentesque pulvinar eleifend tincidunt. Donec egestas congue neque et venenatis. Nullam facilisis pharetra malesuada. Pellentesque rhoncus, turpis vitae commodo porttitor, diam ligula viverra neque, in maximus lorem ex eu velit. Proin malesuada augue at nisl vulputate, sed rhoncus metus posuere. Morbi tincidunt risus eget ipsum sollicitudin volutpat. Maecenas quis lobortis lectus.
